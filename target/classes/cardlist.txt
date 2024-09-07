@@ -1,0 +1,40 @@
+1
+Connor McDavid, Edmonton Oilers
+2
+Cale Makar, Colorado Avalanche
+3
+Sebastian Aho, Carolina Hurricanes
+4
+Matthew Tkachuk, Florida Panthers
+6
+Jack Hughes, New Jersey Devils
+8
+Alex Ovechkin, Washington Capitals
+12
+Mason McTavish, Anaheim Ducks
+13
+Joe Pavelski, Dallas Stars
+16
+Marc-Andre Fleury, Minnesota Wild
+18
+Nick Suzuki, Montreal Canadiens
+24
+Alexis Lafreniere, New York Rangers
+25
+Elias Lindholm, Calgary Flames
+26
+Owen Tippett, Philadelphia Flyers
+28
+Ryan Nugent-Hopkins, Edmonton Oilers
+29
+Kris Letang, Pittsburgh Penguins
+32
+Max Domi, Toronto Maple Leafs
+34
+Dylan Strome, Washington Capitals
+38
+Bo Horvat, New York Islanders
+46
+Jack Quinn, Buffalo Sabres
+50
+Jack Campbell, Edmonton Oilers
